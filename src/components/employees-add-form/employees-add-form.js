@@ -41,6 +41,8 @@ class EmployeesAddForm extends Component{
                     className="form-control new-post-label"
                     placeholder="What it his Name?"
                     name='name' 
+                    minLength="3"
+                    required
                     value={name}
                     onChange={this.onValueChange} />
 
@@ -48,6 +50,8 @@ class EmployeesAddForm extends Component{
                     className="form-control new-post-label"
                     placeholder="His salary in $"
                     name='salary'
+                    minLength="1"
+                    required
                     value={salary}    
                     onChange={this.onValueChange} />
 
