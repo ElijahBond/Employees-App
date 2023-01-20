@@ -1,3 +1,5 @@
---------------THIS IS STUDYING PROJECT--------------
+--------------THIS IS STUDYING PROJECT--------------  (I created this project witch help teacher)
 
-My app for watching employees salaries
+Deploy vesrion:    https://employees-app-7ec98.web.app/
+
+My app for watching employees salaries. You can add new empolees, delete and filter existing employees
