@@ -1,4 +1,4 @@
---------------THIS IS STUDYING PROJECT--------------  (I created this project witch help teacher)
+--------------THIS IS STUDYING PROJECT--------------  (I created this project with help teacher)
 
 Deploy vesrion:    https://employees-app-7ec98.web.app/
 
